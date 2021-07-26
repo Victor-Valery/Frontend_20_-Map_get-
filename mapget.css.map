@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAYA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAVR,IAAI;CAWf;;AAED,AAAA,EAAE,CAAA;EACE,KAAK,EAfI,IAAI;CAiBhB",
+    "mappings": "AAYA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAVR,IAAI;CAWf;;AAED,AAAA,EAAE,CAAA;EACE,KAAK,EAfI,IAAI;EAgBb,WAAW,EATD,GAAG;CAUhB",
     "sources": [
         "mapget.scss"
     ],
